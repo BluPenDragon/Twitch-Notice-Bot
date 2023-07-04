@@ -1,0 +1,7 @@
+{
+  "discordToken": "TOKEN",
+  "twitchClientId": "CLIENT_ID",
+  "twitchClientSecret": "CLIENT_SECRET",
+  "discordChannelId": "DEFAULT_DISCORD_CHANNEL_ID",
+  "prefix": "!"
+}
